@@ -3,6 +3,7 @@
 /public/build
 /public/hot
 /public/storage
+/public/uploads
 /storage/*.key
 /vendor
 .env
@@ -17,3 +18,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/sftp-config.json
+.phpstorm.meta.php
+_ide_helper.php
+docker-compose.override.yml
+*.dat
+*.mtx.json
